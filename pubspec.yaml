@@ -1,0 +1,11 @@
+name: voxextrude
+description: "Pure Dart procedural spline mesh extrusion using Bishop rotation-minimizing frames, cambered road/pipe/ribbon cross-sections, arc-length UV tiling, and N-way road intersections."
+version: 0.1.0
+repository: https://github.com/soulwax/voxextrude
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
