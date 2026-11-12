@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxextrude logo"/>
+</p>
+
 # voxextrude
 
 Pure Dart procedural 3D spline sweep, road/river ribbon generator, and intersection mesh builder.
